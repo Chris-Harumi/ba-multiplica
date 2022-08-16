@@ -1,0 +1,9 @@
+Pasos para un App Web  
+1.SKETCH, diseño de la aplicacion
+2.WIREFRAMES, herramientas específicas (Pagina recomendada: https://www.invisionapp.com/
+, https://www.figma.com/)
+3. Prototipo estático. (un 40% de de la pagina)
+4. Prototipo dinámico (mostrar al cliente un 90% de la pagina terminada)
+5. Deploy (puesta de producción: se compra el dominio, tener un servidor )
+
+Mantenimiento del app
